@@ -10,5 +10,5 @@ Lo stesso può avvenire per le idee, su uno spazio web accessibile a tutti.
 
 ## Perché non scrivere un blog?
 
-<img src="https://www.repstatic.it/content/localirep/img/espresso/2015/12/30/075706519--31c10015-cd2f-4be7-bde7-987018c67f84.jpg" alt="" width="48">
+<img src="https://www.repstatic.it/content/localirep/img/espresso/2015/12/30/075706519--31c10015-cd2f-4be7-bde7-987018c67f84.jpg" alt="" width="auto8">
 
