@@ -28,16 +28,24 @@ body {
 .page-header {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
+    flex: row;
     justify-content: space-between;
     align-items: center;
     margin-top: 8px;
+    overflow: hidden;
+  background-color: #333;
+  position: relative;
 }
 
 .page-header nav a:not(:hover):not(:focus) {
     color: currentColor;
     text-decoration: none;
 }
+
+nav {
+    display: none;
+}
+
 
 nav a {
     margin: 0 12px;
