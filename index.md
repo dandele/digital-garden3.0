@@ -1,5 +1,9 @@
 ---
 layout: default
 ---
-# Hi
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+# Ciao 👋
+Mi chiamo Daniele D'Amico e questo è il mio Digital Garden.
+
+Questa è la pagina da cui puoi partire nell'esplorazione della mia mente digitale.
+
+Mi raccomando, cerca di non perderti! [[food]]
