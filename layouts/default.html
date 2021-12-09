@@ -7,10 +7,10 @@
     <script>
         function myFunction() {
   var x = document.getElementById("hamburgerheader");
-  if (x.style.display === "flex column") {
-    x.style.display = "none";
+  if (x.style.cssText === "display: flex; flex-direction: column;") {
+    x.style.cssText = "display: none;";
   } else {
-    x.style.display = "block";
+    x.style.cssText = "display: block;";
   }
 }
     </script>
