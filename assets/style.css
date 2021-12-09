@@ -51,6 +51,8 @@ background: black;
   position: absolute;
   right: 0;
   top: 0;
+  width: 48px;
+  height: auto;
 }
 
 nav a {
