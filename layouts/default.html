@@ -4,6 +4,16 @@
 
 <head>
     {% include 'head.html' %}
+    <script>
+        function myFunction() {
+  var x = document.getElementById("myLinks");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+    </script>
 </head>
 <body>
     <header class="page-header">
@@ -18,17 +28,9 @@
             <i class="fa fa-bars"></i>
           </a>      
           
-    <script>
-        function myFunction() {
-  var x = document.getElementById("myLinks");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-    </script>
-    </header>
+    
+    
+</header>
     <main>
         {{content}}
     </main>
