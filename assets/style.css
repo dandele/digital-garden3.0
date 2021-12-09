@@ -28,7 +28,7 @@ body {
 .page-header {
     display: flex;
     flex-wrap: wrap;
-    flex: row;
+    flex-direction: row;
     justify-content: space-between;
     align-items: center;
     margin-top: 8px;
