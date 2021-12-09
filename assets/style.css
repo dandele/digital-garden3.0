@@ -45,7 +45,7 @@ body {
 nav {
     display: none;
 }
-.topnav a.iconcose{
+.iconcose {
 background: black;
   display: block;
   position: absolute;
