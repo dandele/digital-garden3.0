@@ -60,7 +60,7 @@ nav a {
 }
 
 .page-header__logo {
-    align-items: left;
+    align-self: start;
     margin-left: 0;
 }
 
