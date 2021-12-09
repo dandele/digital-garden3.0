@@ -6,7 +6,7 @@
     {% include 'head.html' %}
     <script>
         function myFunction() {
-  var x = document.getElementsByClassName("iconcose");
+  var x = document.getElementsById("hamburgerheader");
   if (x.style.display === "block") {
     x.style.display = "none";
   } else {
@@ -20,7 +20,7 @@
        <a href="/" class="page-header__logo" title="Go home">
             <img src="/assets/daniele_damico.png" alt="" width="48">
         </a> 
-        <nav>           
+        <nav id="hamburgerheader">           
             <a href="/about">About Me</a>
             <a href="/notes">Notes</a>
         </nav>
