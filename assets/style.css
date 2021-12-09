@@ -43,6 +43,11 @@ nav a {
     font-size: 1.25em;
 }
 
+.page-header__logo {
+    align-items: left;
+    margin-left: 0;
+}
+
 main {
     flex-grow: 1;
     max-width: 60ch;
