@@ -4,31 +4,36 @@
 
 <head>
     {% include 'head.html' %}
-    <script>
-        function myFunction() {
-  var x = document.getElementById("hamburgerheader");
-  if (x.style.cssText === "display: flex; flex-direction: column;") {
-    x.style.cssText = "display: none;";
-  } else {
-    x.style.cssText = "display: flex; flex-direction: column;";
-  }
+    
+<script>
+const hamburger = document.querySelector(".hamburger");
+const navMenu = document.querySelector(".nav-menu");
+
+hamburger.addEventListener("click", mobileMenu);
+
+function mobileMenu() {
+    hamburger.classList.toggle("active");
+    navMenu.classList.toggle("active");
 }
-    </script>
+</script>
 </head>
+
 <body>
     <header class="page-header">
-       <a href="/" class="page-header__logo" title="Go home">
-            <img src="/assets/daniele_damico.png" alt="" width="48">
-        </a> 
-        <nav id="hamburgerheader">           
+        
+        <nav id="hamburgerheader">
+            <a href="/" class="page-header__logo" title="Go home">
+                <img src="/assets/daniele_damico.png" alt="" width="48">
+            </a>            
             <a href="/about">About Me</a>
             <a href="/notes">Notes</a>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
         </nav>
-        <a href="javascript:void(0);" class="iconcose" onclick="myFunction()">
-            <i class="fa fa-bars"></i>
-          </a>      
-          
-    
+        
     
 </header>
     <main>
