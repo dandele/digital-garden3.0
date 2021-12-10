@@ -19,6 +19,21 @@ body {
     margin: 0 24px;
 }
 
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.5rem;
+}
+
 @media only screen and (max-width: 468px) {
     .page-header {
         flex-direction: column;
