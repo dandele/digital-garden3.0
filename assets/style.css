@@ -210,7 +210,6 @@ small {font-size: 0.8em;}
 
 .backlink__preview {
     display: none;
-    
     position: absolute;
     bottom: 8px;
     left: 100%;
