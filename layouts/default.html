@@ -2,28 +2,6 @@
 <html lang="en">
 <head>
     {% include 'head.html' %}
-    <script>
-    var hamburger = document.getElementById('overlayBtn');
-    if(hamburger){
-    hamburger.addEventListener('click', swapper, false);
-}
-    const hamburger = document.querySelector(".hamburger");
-    const navMenu = document.querySelector(".nav-menu");
-    hamburger.addEventListener("click", mobileMenu);
-    function mobileMenu() {
-    hamburger.classList.toggle("active");
-    navMenu.classList.toggle("active");}
-
-    const navLink = document.querySelectorAll(".nav-link");
-
-navLink.forEach(n => n.addEventListener("click", closeMenu));
-
-function closeMenu() {
-    hamburger.classList.remove("active");
-    navMenu.classList.remove("active");
-}
-    </script>
-
 </head>
 <body>
     <header class="page-header">
@@ -69,5 +47,23 @@ function closeMenu() {
     <footer class="page-footer">
         <small>Copyright {{site.author}}</small>
     </footer>
+    <script>
+    
+        const hamburger = document.querySelector(".hamburger");
+        const navMenu = document.querySelector(".nav-menu");
+        hamburger.addEventListener("click", mobileMenu);
+        function mobileMenu() {
+        hamburger.classList.toggle("active");
+        navMenu.classList.toggle("active");}
+    
+        const navLink = document.querySelectorAll(".nav-link");
+    
+    navLink.forEach(n => n.addEventListener("click", closeMenu));
+    
+    function closeMenu() {
+        hamburger.classList.remove("active");
+        navMenu.classList.remove("active");
+    }
+        </script>
 </body>
 </html>
