@@ -67,10 +67,10 @@ a {
     text-decoration: none;
 }
 
-nav a {
+/* nav a {
     margin: 0 12px;
     font-size: 1.25em;
-}
+} */
 
 main {
     flex-grow: 1;
