@@ -158,7 +158,7 @@ small {font-size: 0.8em;}
 @media only screen and (max-width: 768px) {
     .nav-menu {
         position: fixed;
-        left: -100%;
+        left: 100%;
         top: 5rem;
         flex-direction: column;
         background-color: #fff;
