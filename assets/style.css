@@ -34,6 +34,20 @@ a {
     padding: 1rem 1.5rem;
 }
 
+.hamburger {
+    display: none;
+}
+
+.bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: #101010;
+}
+
 @media only screen and (max-width: 468px) {
     .page-header {
         flex-direction: column;
