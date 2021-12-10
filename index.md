@@ -7,4 +7,8 @@ Mi chiamo Daniele D'Amico e questo è il mio [[digital garden]].
 
 Questa è la pagina da cui puoi partire nell'esplorazione della mia mente digitale.
 
-Mi raccomando, cerca di non perderti! [[food]]
+Qui sotto potrai trovare alcune note che penso siano interessanti e da cui puoi cominciare il tuo viaggio al meglio. Mi raccomando, cerca di non perderti!
+
+## Cose interessanti
+
+[[Modelli mentali]]
