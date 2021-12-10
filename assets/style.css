@@ -27,6 +27,10 @@ a {
     text-decoration: none;
 }
 
+ul {
+    padding-inline-start: 0;
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
