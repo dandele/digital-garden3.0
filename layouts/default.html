@@ -3,6 +3,10 @@
 <head>
     {% include 'head.html' %}
     <script>
+    var hamburger = document.getElementById('overlayBtn');
+    if(hamburger){
+    hamburger.addEventListener('click', swapper, false);
+}
     const hamburger = document.querySelector(".hamburger");
     const navMenu = document.querySelector(".nav-menu");
     hamburger.addEventListener("click", mobileMenu);
