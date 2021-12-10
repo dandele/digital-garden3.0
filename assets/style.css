@@ -43,6 +43,7 @@ ul {
     padding: 1rem 1.5rem;
     width: 100%;
     padding-top: 1rem;
+    padding-left: 0;
 }
 
 .hamburger {
