@@ -88,6 +88,11 @@ ul {
     color: #482ff7;
 }
 
+.main2 {
+    display: flex;
+    flex-direction: row;
+}
+
 @media only screen and (max-width: 468px) {
     .page-header {
         flex-direction: column;
