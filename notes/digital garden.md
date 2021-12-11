@@ -1,12 +1,12 @@
-# Digital Garden 🪴
-
-# Cos'è un Digital Garden?
+# Cos'è un Digital Garden? 🪴
 Per digital garden si intende un modo di concepire la scrittura e la creazione dei contenuti che si concentri più sul processo che sul risultato.
-Si tratta di un processo di creazione dei contenuti che prevede il rifiuto dell'organizzazione cronologica dei contenuti.
-Questo non significa che i contenuti siano disorganizzi ma significa che il principio organizzativo sia un altro.
-Il principio organizzativo è quello in cui lo stesso lettore sceglie verso quale sentiero procedere e l'autore invece contribuisce alla facilità dell'esperienza del lettore, facendo da curatore dei suoi stessi contenuti.
-Si, sembra molto complessa la questione ma è solo impressione.
+<br>Si tratta di un processo di creazione dei contenuti che prevede il rifiuto dell'organizzazione cronologica dei contenuti.
+<br>Questo non significa che i contenuti siano disorganizzi ma significa che il principio organizzativo sia un altro.
+<br>Il principio organizzativo è quello in cui lo stesso lettore sceglie verso quale sentiero procedere e l'autore invece contribuisce alla facilità dell'esperienza del lettore, facendo da curatore dei suoi stessi contenuti.
+<br>Si, sembra molto complessa la questione ma è solo impressione.
+
 ## Ok, carino, ma perché non scrivere un semplice blog?
+
 Di base perché sono troppo pigro per organizzare in maniera strutturata le cose e perché voglio che le mie idee crescano, in maniera pubblica e trasparente.
 In un giardino, di quelli fisici, del mondo reale, si piantano dei semi e li si vede crescere dopo averli curati per mesi e mesi.
 Lo stesso può avvenire per le idee, su uno spazio web accessibile a tutti.
