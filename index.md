@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 # Ciao 👋
-Mi chiamo Daniele D'Amico e questo è il mio [[digital garden]].
+Mi chiamo [[Daniele D'Amico]] e questo è il mio [[digital garden]].
 
 Questa è la pagina da cui puoi partire nell'esplorazione della mia mente digitale.
 
@@ -12,4 +12,5 @@ Qui sotto potrai trovare alcune note che penso siano interessanti e da cui puoi 
 
 ## Cose interessanti
 
-[[Modelli mentali]]
+- [[Modelli mentali]]
+- [[digital garden]]
