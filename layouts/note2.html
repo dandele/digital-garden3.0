@@ -42,10 +42,17 @@
         <article>
             {{content}}
         </article>
-        <img src="/assets/daniele_damico.png" alt="questo sono io" width="60%" height="100%">
+        <img id="fotomia" src="/assets/daniele_damico.png" alt="questo sono io" width="60%">
         </div>
         {% include 'backlinks.html' %}
     </main>
+<script>
+    onclick=changeImage()
+
+    function changeImage() {
+    document.getElementById("scimmia").src="/assets/io.png";
+    }
+</script>
 
 </body>
 </html>
